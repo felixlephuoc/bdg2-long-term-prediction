@@ -6,3 +6,7 @@ data/meters/screening/
 data/predictions/
 notebooks/BDG-2/
 .Rproj.user
+
+# custom directory
+env/*
+env
